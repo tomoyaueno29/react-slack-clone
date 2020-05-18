@@ -1,11 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-<<<<<<< Updated upstream
-import './index.css';
-import App from './App';
-=======
 import App from './components/App';
->>>>>>> Stashed changes
 import registerServiceWorker from './registerServiceWorker';
 import * as firebase from "firebase";
 
